@@ -9,6 +9,10 @@ many-user cloud-backup，多用户云备份.
 支持打开中的文件备份，
 支持mysql,mssql,oracle,mongodb,DB2等数据库
 
+可支持无代理模式和有代理模式。
+无代理可以利用FTP账户/ssh账户实现。
+有代理模式通过客户端实现。
+
 2.备份频率支持定时，实时。
 
 3.支持整机备份。
