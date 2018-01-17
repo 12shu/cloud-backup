@@ -12,3 +12,6 @@ mysqldump获得sql文件。
 然后把sql文件备份到备端
 
 （但是有局限性，数据量大了以后很蛋疼，需要做其他处理）
+
+https://github.com/12shu/cdp
+可见这个程序，寻找对应方案
