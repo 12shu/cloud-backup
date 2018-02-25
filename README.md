@@ -16,7 +16,7 @@ multi-user cloud-backup，多用户云备份.
 2.备份频率支持定时，实时。
 
 3.支持整机备份。
-备份成镜像格式，iso格式，vmdk格式（方便后期在kvm和vmware中直接拉起运行）
+备份成镜像格式，iso格式，vmdk格式（方便后期在kvm和vmware以及virtualbox中直接拉起运行）
 
 4.支持全量，增量，差异备份。
 （源增备增，源删备不删，而是移动到xx目录）
